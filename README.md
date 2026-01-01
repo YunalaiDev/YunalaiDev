@@ -11,4 +11,4 @@ I'm a Junior Data Engineer and Computer Engineering student at BME. I love build
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-[LinkedIn profilom linkje](www.linkedin.com/in/immánuel-bacsa-576703273)
+[LinkedIn profile](www.linkedin.com/in/immánuel-bacsa-576703273)
